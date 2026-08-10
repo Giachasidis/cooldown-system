@@ -1,4 +1,4 @@
-﻿package com.giaxasidis.cooldown;
+﻿package com.giachasidis.cooldown;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

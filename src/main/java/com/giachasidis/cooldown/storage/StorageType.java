@@ -1,4 +1,4 @@
-﻿package com.giaxasidis.cooldown.storage;
+﻿package com.giachasidis.cooldown.storage;
 
 public enum StorageType {
     MEMORY,
