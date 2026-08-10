@@ -65,4 +65,4 @@ cooldown.setCooldown(key, 30);
 
 ## License
 
-MIT © Giaxasidis
+MIT © Giachasidis
