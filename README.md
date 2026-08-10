@@ -20,7 +20,7 @@ Lightweight cooldown management library for Minecraft Spigot/Paper plugins. Prov
 
 ```xml
 <dependency>
-    <groupId>com.giaxasidis</groupId>
+    <groupId>com.giachasidis</groupId>
     <artifactId>cooldown-system</artifactId>
     <version>1.0.0</version>
 </dependency>
